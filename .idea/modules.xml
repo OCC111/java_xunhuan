@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FaceToObj/FaceToObj.iml" filepath="$PROJECT_DIR$/FaceToObj/FaceToObj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_study_2020.iml" filepath="$PROJECT_DIR$/.idea/Java_study_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fangfa/fangfa.iml" filepath="$PROJECT_DIR$/fangfa/fangfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuzu/shuzu.iml" filepath="$PROJECT_DIR$/shuzu/shuzu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xun_huan/xun_huan.iml" filepath="$PROJECT_DIR$/xun_huan/xun_huan.iml" />
+    </modules>
+  </component>
+</project>
